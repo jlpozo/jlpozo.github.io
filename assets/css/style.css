@@ -31,12 +31,24 @@
     font-style: normal;    
 }
 
-.img{
+/* .img{
     margin-top: 5px;
     margin-left: 5px;
     margin-right: 5px;
     margin-bottom: 10px;
+    
+} */
+
+.foto-perfil{
+    display: flex;
+    justify-content: center;
+    
 }
+
+.rounded-img{
+    border-radius: 50%;
+}
+
 .h1{
     color:#7d7d7d;
     margin-top: 5px;
